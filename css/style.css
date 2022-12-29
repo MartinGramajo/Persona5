@@ -222,7 +222,6 @@ body {
 
 /*Footer*/
 .footer {
-    padding-top: 6rem;
     margin-top: auto;
 }
 
@@ -230,6 +229,7 @@ body {
     width: 100%;
     background-color: #0a141d;
 }
+
 .pie-pagina .grupo-1 {
     width: 100%;
     max-width: 1200px;
